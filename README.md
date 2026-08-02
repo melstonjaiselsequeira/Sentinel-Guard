@@ -3,7 +3,6 @@
 [CYBER SECURITY ] Project by Societe
 
 **Sentinel Guard** is a full-stack Insider Threat & Data Access Monitoring platform. It ingests user access logs, applies rule-based and ML-powered anomaly detection (Isolation Forest), computes per-user behavioral baselines, and surfaces actionable security alerts through a modern React dashboard.
-
 ---
 
 ## 📁 Project Structure
